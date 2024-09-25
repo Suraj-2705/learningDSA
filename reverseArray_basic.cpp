@@ -2,6 +2,7 @@
 using namespace std;
 #include<vector>
 vector<int> reverse(vector<int> v){
+
     int s = 0;
     int e = v.size()-1;
     while(s<e){
@@ -13,7 +14,7 @@ return v;
 }
 
 void print(vector<int> v){
-    for(int i = 0; i<v.size; i++){
+    for(int i = 0; i<v.size(); i++){
         cout << v[i] << " ";
     }
 }
