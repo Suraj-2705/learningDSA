@@ -26,6 +26,7 @@ int main()
     v.push_back(3);
     v.push_back(12);
     v.push_back(4);
+    v.push_back(2);
 
     vector<int> ans = reverse(v);
     cout << "Reversed array is: ";
