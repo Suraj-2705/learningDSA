@@ -31,6 +31,7 @@ public:
                 }
                 
             }
+            
             //moving to new different character
             i = j; 
         }
