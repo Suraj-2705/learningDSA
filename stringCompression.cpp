@@ -14,9 +14,9 @@ public:
 
             //yaha kab aaoage?
             //jab ya toh vector poora traverse ho chuka hoga.
-            //ya fir naya character encounter ho.
+            //ya fir  naya character encounter ho.
 
-            //old char ko store karlo
+            //old character ko store karlo 
 
             chars[ansIndex++] = chars[i];
 
