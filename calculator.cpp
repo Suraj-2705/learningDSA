@@ -25,9 +25,7 @@ int main(){
         case '%': cout << (a%b) << endl;
                     break;
 
-
-
-
+                    
         default: cout<<"please enter a valid operation";
     }
     return 0;
