@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int fastExpo(int a, int b ) {
+int fastExponantiation(int a, int b ) {
 
     int res = 1;
 
@@ -23,7 +23,7 @@ int main() {
     cout << "Enter the Values of a and b" << endl;
     cin >> a >> b;
 
-    cout << "Answer is: " << fastExpo(a,b) << endl;
+    cout << "Answer is: " << fastExponantiation(a,b) << endl;
 
     return 0;
 }
